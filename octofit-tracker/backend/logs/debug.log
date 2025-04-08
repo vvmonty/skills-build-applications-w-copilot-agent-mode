@@ -1,0 +1,190 @@
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+"GET / HTTP/1.1" 500 59
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+"GET / HTTP/1.1" 500 59
+"GET / HTTP/1.1" 500 59
+"GET / HTTP/1.1" 500 59
+"GET / HTTP/1.1" 500 59
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+"GET / HTTP/1.1" 500 59
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))
+New MongoClient connection
+New Database connection
+sql_command: SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"
+params: ()
+Find query: {'projection': ['id', 'app', 'name', 'applied']}
+Result: (1, 'contenttypes', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 0, 932000))
+Result: (2, 'auth', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 105000))
+Result: (3, 'admin', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 137000))
+Result: (4, 'admin', '0002_logentry_remove_auto_add', datetime.datetime(2025, 4, 8, 16, 12, 1, 143000))
+Result: (5, 'admin', '0003_logentry_add_action_flag_choices', datetime.datetime(2025, 4, 8, 16, 12, 1, 149000))
+Result: (6, 'contenttypes', '0002_remove_content_type_name', datetime.datetime(2025, 4, 8, 16, 12, 1, 163000))
+Result: (7, 'auth', '0002_alter_permission_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 168000))
+Result: (8, 'auth', '0003_alter_user_email_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 174000))
+Result: (9, 'auth', '0004_alter_user_username_opts', datetime.datetime(2025, 4, 8, 16, 12, 1, 179000))
+Result: (10, 'auth', '0005_alter_user_last_login_null', datetime.datetime(2025, 4, 8, 16, 12, 1, 186000))
+Result: (11, 'auth', '0006_require_contenttypes_0002', datetime.datetime(2025, 4, 8, 16, 12, 1, 188000))
+Result: (12, 'auth', '0007_alter_validators_add_error_messages', datetime.datetime(2025, 4, 8, 16, 12, 1, 194000))
+Result: (13, 'auth', '0008_alter_user_username_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 199000))
+Result: (14, 'auth', '0009_alter_user_last_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 206000))
+Result: (15, 'auth', '0010_alter_group_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 212000))
+Result: (16, 'auth', '0011_update_proxy_permissions', datetime.datetime(2025, 4, 8, 16, 12, 1, 219000))
+Result: (17, 'auth', '0012_alter_user_first_name_max_length', datetime.datetime(2025, 4, 8, 16, 12, 1, 225000))
+Result: (18, 'sessions', '0001_initial', datetime.datetime(2025, 4, 8, 16, 12, 1, 247000))

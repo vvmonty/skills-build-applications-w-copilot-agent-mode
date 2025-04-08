@@ -50,7 +50,13 @@ CORS_ALLOW_HEADERS = [
 ]
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['shiny-space-invention-4j66vxjjgqr62jv79-8000.app.github.dev', 'localhost']
+
+DEBUG = True
+
+SECRET_KEY = 'your-secret-key-here'
+
+ROOT_URLCONF = 'octofit_tracker.urls'
 
 TEMPLATES = [
     {
@@ -68,6 +74,8 @@ TEMPLATES = [
     },
 ]
 
+STATIC_URL = '/static/'
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -75,11 +83,19 @@ LOGGING = {
         'console': {
             'class': 'logging.StreamHandler',
         },
+        'file': {
+            'class': 'logging.FileHandler',
+            'filename': '/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/logs/debug.log',
+        },
     },
     'loggers': {
         'djongo': {
-            'handlers': ['console'],
+            'handlers': ['console', 'file'],
             'level': 'DEBUG',
+        },
+        'django': {
+            'handlers': ['console', 'file'],
+            'level': 'ERROR',
         },
     },
 }
